@@ -1,0 +1,2 @@
+class Tset < ApplicationRecord
+end
